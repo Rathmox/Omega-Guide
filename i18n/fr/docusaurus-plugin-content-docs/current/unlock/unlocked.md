@@ -1,8 +1,8 @@
 ---
 sidebar_position: 10
-title: "Débloqué (N0110)"
+title: "Débloqué"
 pagination_next: cfw/choose-a-cfw
-pagination_prev: unlock/n0110-is-locked
+pagination_prev: intro
 ---
 
 Votre calculatrice est débloquée, youpi !

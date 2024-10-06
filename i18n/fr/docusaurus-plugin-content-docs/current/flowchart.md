@@ -17,7 +17,8 @@ flowchart TD
     
     model_number --N0100--> calc_unlocked
     model_number ---->|N0110| check_version_n0110
-    model_number ---->|N0115 ou N0120| calc_locked_new_calcs
+    model_number ---->|N0115| hardware_method_new_calcs
+    model_number ---->|N0120| calc_locked_new_calcs
     model_number --Other--> goto_discord([Aller sur le Discord Omega])
 
     click model_number "intro"
@@ -35,21 +36,23 @@ flowchart TD
     check_version_n0110 --16.4.3 ou 18.2.3--> install_18_2_0[Installez Epsilon 18.2.0]
     check_version_n0110 --19.0.0 à 21.3.0--> downgrade_check[Verifiez l'éligibilité au downgrade]
     downgrade_check --Éligible--> install_18_2_0
-    downgrade_check --Non éligible--> downgrade_fail(( )) --Ouvrir la calculatrice--> hardware_method[Suivez la méthode hardware]
+    downgrade_check --Non éligible--> downgrade_fail(( )) --Ouvrir la calculatrice--> hardware_method_n0110[Suivez la méthode hardware]
     downgrade_fail --Ne veut pas ouvrir la calculatrice--> calc_locked_n0110
     install_18_2_0 --> phi
-    phi & hardware_method --> calc_unlocked_n0110
+    phi & hardware_method_n0110 --> calc_unlocked_n0110
 
     click check_version_n0110 "unlock/n0110-is-locked"
     click downgrade_check "unlock/phi/check-version-change-eligibility"
     click install_18_2_0 "unlock/phi/install-epsilon-18-2-0"
     click phi "./unlock/phi"
-    click hardware_method "unlock/hardware/n0110-hardware-unlock"
+    click hardware_method_n0110 "unlock/hardware/n0110-hardware-unlock"
+    click hardware_method_new_calcs "unlock/hardware/n0110-hardware-unlock"
     click calc_locked_n0110 "what-to-do-locked"
     click calc_unlocked_n0110 "cfw/choose-a-cfw"
 
     end
 
+    hardware_method_new_calcs([Suivez la méthode hardware])
     calc_locked_new_calcs([Votre calculatrice est bloquée, mais vous pouvez faire d'autres choses avec])
 
     click calc_locked_new_calcs "./unlock/what-to-do-locked"

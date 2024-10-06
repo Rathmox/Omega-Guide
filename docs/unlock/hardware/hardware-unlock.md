@@ -1,8 +1,8 @@
 ---
-title: "Hardware unlock (N0110)"
+title: "Hardware unlock"
 sidebar_position: 1
-pagination_next: unlock/n0110-unlocked
-pagination_prev: unlock/n0110-is-locked
+pagination_next: unlock/unlocked
+pagination_prev: intro
 ---
 
 ### Required reading

@@ -18,8 +18,8 @@ Cette page expliquera comment installer Upsilon, en supposant que vous avez déj
 
 ### Section I - Préparer le mode Recovery
 
-Si votre modèle est N0110, entrez dans le mode Recovery en maintenant "6" et en appuyant sur "RESET".<br/>
-Si votre modèle est N0100, entrez dans le mode Recovery en branchant votre calculatrice et en appuyant sur "RESET".
+Si votre modèle est N0100, entrez dans le mode Recovery en branchant votre calculatrice et en appuyant sur "RESET".<br/>
+Pour tout autre modèle, entrez dans le mode Recovery en maintenant "6" et en appuyant sur "RESET".
 
 ### Section II - Installation d'Upsilon
 

@@ -1,7 +1,7 @@
 ---
 title: "Installer Phi"
 sidebar_position: 3
-pagination_next: unlock/n0110-unlocked
+pagination_next: unlock/unlocked
 ---
 
 ### Lecture obligatoire

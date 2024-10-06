@@ -20,8 +20,8 @@ This page will explain how to install Upsilon, assuming you already have an unlo
 
 ### Section I - Prepare recovery mode
 
-If your model is N0110, enter recovery mode by holding "6" and pressing "RESET".<br/>
-If your model is N0100, enter recovery mode by plugging your calculator and pressing RESET.
+If your model is N0100, enter recovery mode by plugging your calculator and pressing RESET.<br/>
+For any other model, enter recovery mode by holding "6" and pressing "RESET".
 
 ### Section II - Install Upsilon
 

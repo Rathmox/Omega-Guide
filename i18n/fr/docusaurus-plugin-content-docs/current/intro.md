@@ -44,4 +44,5 @@ Si vous ne voulez pas profondément modifier votre calculatrice, [il y a toujour
 |------------------|----------------------------------------------------------------|
 | N0100            | [Votre calculatrice est déja dévérouillée, choisisez un OS Custom](/docs/cfw/choose-a-cfw) |
 | N0110            | [Vérifiez si votre calculatrice est verrouillée](/docs/unlock/n0110-is-locked) |
-| N0115 - N0120    | [Vous ne pouvez pas installer d'OS Custom dessus. Mais il y a toujours certaines choses que vous pouvez faire.](/docs/unlock/what-to-do-locked) |
+| N0115            | [Utilisez le débloquage matériel](/docs/unlock/n0110-is-locked) |
+| N0120    | [Vous ne pouvez pas installer d'OS Custom dessus. Mais il y a toujours certaines choses que vous pouvez faire.](/docs/unlock/what-to-do-locked) |

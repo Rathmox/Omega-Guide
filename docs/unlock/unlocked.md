@@ -1,8 +1,8 @@
 ---
 sidebar_position: 10
-title: "Unlocked (N0110)"
+title: "Unlocked"
 pagination_next: cfw/choose-a-cfw
-pagination_prev: unlock/n0110-is-locked
+pagination_prev: intro
 ---
 
 Your NumWorks calculator is unlocked, yay!
