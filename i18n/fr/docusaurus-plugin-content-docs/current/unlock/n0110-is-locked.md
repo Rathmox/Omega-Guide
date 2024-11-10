@@ -55,4 +55,4 @@ Si possible, vous devriez suivre l'une des méthodes logicielles répertoriées 
 
 Sinon, des méthodes qui fonctionnent sur toutes les versions sont disponibles, mais nécessitent du matériel supplémentaire :
 
-1. [Débloquage matériel](./hardware/n0110-hardware-unlock) - nécessite des outils spécifiques
+1. [Débloquage matériel](/docs/unlock/hardware/n0110-hardware-unlock) - nécessite des outils spécifiques
