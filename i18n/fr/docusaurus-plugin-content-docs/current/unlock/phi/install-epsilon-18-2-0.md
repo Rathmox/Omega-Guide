@@ -44,6 +44,6 @@ Vous devriez maintenant voir la version 18.2.0 dans Paramètres > À propos.
 
 :::caution
 
-Si vous ne voyez pas la bonne version ou que votre calculatrice ne démarre pas, vous pouvez toujours utiliser une [méthode alternative](/docs/unlock/n0110-is-locked#alternate-methods).
+Si vous ne voyez pas la bonne version ou votre calculatrice ne démarre pas, vous pouvez toujours utiliser une [méthode alternative](/docs/unlock/n0110-is-locked#alternate-methods).
 
 :::
